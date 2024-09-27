@@ -1,0 +1,17 @@
+{
+  "name": "saheli-web-interface",
+  "version": "1.0.0",
+  "description": "Saheli police dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "leaflet": "^1.9.4",
+    "react-leaflet": "^4.2.1",
+    "ws": "^8.18.0"
+  }
+}
