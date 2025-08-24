@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635325370689",
+    "project_id": "saheli-app-9088f",
+    "storage_bucket": "saheli-app-9088f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635325370689:android:c86a1dab9a97c027c3d1c0",
+        "android_client_info": {
+          "package_name": "com.example.saheli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8PxqBl60nzUM7ILZohjW8Egffhc6dGi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
