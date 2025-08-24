@@ -1,0 +1,54 @@
+.emergency-call-btn {
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.emergency-call-btn:hover {
+  background-color: darkred;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.alert-section {
+  flex: 1;
+  padding: 20px;
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.map-section {
+  flex: 1;
+  height: 100%;
+  width:100%
+  
+}
+
+.alert-message {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #ff0000;
+  color: white;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.alert-message.active {
+  opacity: 1;
+}
+
+.app-container.alert-active {
+  background-color: #ff0000;
+}
