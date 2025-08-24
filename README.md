@@ -178,7 +178,7 @@ Contributions are welcome! Please fork the repository, create a new branch for y
 
 ## License
 
-This repository does not currently specify a license.
+MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
